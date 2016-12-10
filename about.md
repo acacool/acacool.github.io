@@ -10,11 +10,11 @@ about: true
 
 #### 技术
 
-Linux, C/C++, PHP, Javascript, Lua, Python, Redis
+C/C++, PHP, Javascrip, Python, Java, 草泥马语
 
 #### 工作
 
-+ ***2015.04 - 0000.00:*** working at [qifan](http://www.dapai178.com "北京起凡互娱科技有限公司")
++ ***1999.04 - 2016.11:*** working at [下一度百](http://www.baidu.com "百度一下有限公司")
 
 #### 创业
 
