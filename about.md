@@ -31,9 +31,7 @@ Linux, C/C++, PHP, Javascript, Lua, Python, Redis
 + [email](www.qq.com)
 
 
-<!--这是注释
-[email]({{site.author.qqmail}})
--->
+
 #### avater
 
 <div id="avater" class="avater" style="margin-top: 20px;">
